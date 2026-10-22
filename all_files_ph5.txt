@@ -1,0 +1,27 @@
+﻿D:\EDI\.python-version
+D:\EDI\all_files_ph5.txt
+D:\EDI\pyproject.toml
+D:\EDI\pytest.ini
+D:\EDI\README.md
+D:\EDI\.pytest_cache\.gitignore
+D:\EDI\.pytest_cache\CACHEDIR.TAG
+D:\EDI\.pytest_cache\README.md
+D:\EDI\.pytest_cache\v\cache\lastfailed
+D:\EDI\.pytest_cache\v\cache\nodeids
+D:\EDI\documentation\EDI Member 3 Project Work.pdf
+D:\EDI\documentation\Module_3_Privacy_Communication_Work_Report.docx
+D:\EDI\documentation\Module_3_Privacy_Communication_Work_Report.pdf
+D:\EDI\privacy\aggregation.py
+D:\EDI\privacy\communication.py
+D:\EDI\privacy\compression.py
+D:\EDI\privacy\dp.py
+D:\EDI\privacy\privacy_engine.py
+D:\EDI\privacy\serializer.py
+D:\EDI\privacy\__init__.py
+D:\EDI\tests\test_aggregation.py
+D:\EDI\tests\test_communication.py
+D:\EDI\tests\test_compression.py
+D:\EDI\tests\test_dp.py
+D:\EDI\tests\test_privacy_engine.py
+D:\EDI\tests\test_roundtrip.py
+D:\EDI\tests\test_serializer.py
